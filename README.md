@@ -49,7 +49,7 @@ namespace Examle
 ```
 4、将类库发布为`release`模式，获得`example.dll`文件
 
-5、将文件读取为二进制后，转为`BASE64`字符串，调用`API`(`/api/funcs/install`)安装自定义函数
+5、将文件读取为二进制后，转为`BASE64`字符串(或将文件发布到网络地址)，调用`API`(`/api/funcs/install`)安装自定义函数
 
 6、安装后，可以调用`API`(`/api/funcs`)获取已安装的自定义函数信息进行验证
 
