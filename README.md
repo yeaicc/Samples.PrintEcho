@@ -1,5 +1,8 @@
 ### PrintEcho.SDK -- 印刻SDK
 
+PrintEcho.SDK API 文档参考：
+[点我查看](https://apifox.com/apidoc/shared/9306769f-a23c-4b03-b7b5-3c194ea766f8/267206188e0)
+
 这是一个PrintEcho(印刻)打印客户端的SDK。
 
 可以让你开发自定义函数，和安装进印刻打印客户端。
@@ -8,7 +11,7 @@
 
 1、创建一个.net8.0类库
 
-2、执行以下命令安装PrintEcho.SDK
+2、执行以下命令安装[PrintEcho.SDK](https://www.nuget.org/packages/PrintEcho.SDK/#readme-body-tab)
 
 ```shell
   dotnet add package PrintEcho.SDK
